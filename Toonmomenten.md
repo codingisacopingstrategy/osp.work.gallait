@@ -1,0 +1,2 @@
+> De ruimte op het gelijkvloers wordt multi-functioneel. Aan de straatkant wordt het bureau van de Schaarbeekse Taal geïnstalleerd. Daardoor wordt het al bijna vanzelfsprekend ook het contactpunt naar de buurt toe. Dit hoeft echter geen permanent bureau te zijn, het kan plaats maken voor wisselende tijdelijke invullingen. De voorruimte is ook beschikbaar voor
+performances, vertoningen en presentaties, bijvoorbeeld van de gastkunstenaars.
