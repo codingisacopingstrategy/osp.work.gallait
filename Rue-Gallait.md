@@ -1,0 +1,1 @@
+[[fotos/Huis.jpg|width=800px]]

@@ -1,0 +1,1 @@
+[[fotos/compositie_1.jpg|width=800px]]
