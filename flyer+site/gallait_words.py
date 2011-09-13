@@ -18,6 +18,6 @@ allwords = words['dutch'] + words['english'] + words['french']
 for word in allwords:
     G.add_node(word.upper())
 
-G.node_attr.update(fontname= "League Gothic Extended", fontsize="28", height="1")
+G.node_attr.update(fontname= "League Gothic Extended", fontsize="28", height="1", shape="none")
 G.layout()
 G.draw('gallait_words.svg')
