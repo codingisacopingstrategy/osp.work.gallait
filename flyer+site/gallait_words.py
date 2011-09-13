@@ -7,11 +7,6 @@ words = {
 }
 
 """
-for language, words in words.items():
-    print language, len(words)
-"""
-
-"""
 for i in range(17):
     print words['dutch'][i], words['english'][i], words['french'][i]
 """
@@ -21,7 +16,8 @@ G=pgv.AGraph()
 
 allwords = words['dutch'] + words['english'] + words['french']
 for word in allwords:
-    G.add_node(word)
+    G.add_node(word.upper())
 
+G.node_attr.update(fontname= "League Gothic Extended", fontsize="28", height="1")
 G.layout()
 G.draw('gallait_words.svg')
