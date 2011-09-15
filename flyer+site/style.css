@@ -5,27 +5,61 @@
   font-weight: normal;
   font-style: normal; }
 
-body {
-  margin-top: 36px;
-  font-size: 72px;
-  line-height: 72px;
-  font-family: 'LeagueGothicRegular';
-  background-color: #A3B3B3; }
-
 h1, h2, h3, h4, h5, h6 {
-  font-weight: normal; }
+    font-weight: normal;
+}
 
-h1, h2 {
-  font-size: 40px;
-  line-height: 36px; }
+html, body {
+    width:  100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    font-size: 36px;
+    line-height: 36px;
+    font-family: 'LeagueGothicRegular', serif;
+    background-color: #A3B3B3;
+}
 
-h3, h4 {
-  font-size: 18px;
-  line-height: 18px;
-  margin-bottom: 0; }
+canvas {
+    z-index: -200;
+}
 
-p {
-  margin-bottom: 18px; }
+div {
+    position: absolute;
+    background-color: rgb(255,255,0);
+}
+
+div#logo {
+    font-size: 72px;
+    line-height: 72px;
+    z-index: 100;
+    left: 12%;
+    top: 10%;
+}
+
+div#constant_logo {
+   font-family: fixed-width;
+   font-size: 10px;
+   line-height: 10px;
+   background-color: transparent;
+   left: 2%;
+   bottom: 2%;
+}
+
+div#housewarming {
+    top: 24%;
+    right: 22%;
+}
+
+div#housewarming h2 {
+    font-size: 48px;
+    line-height: 48px;
+}
+
+div#housewarming p {
+    font-size: 18px;
+    line-height:18px;
+}
 
 a, a:hover, a:visited, a:active {
   color: black; }
