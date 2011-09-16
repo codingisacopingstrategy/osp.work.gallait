@@ -33,7 +33,7 @@ function draw() {;
 function update() {
     var word = randomWord()
     var position = [Math.random() * width, Math.random() * height];
-    ctx.font = "normal 36px 'League Gothic Extended'";
+    ctx.font = "normal 36px 'CrickxRegular'";
     var sticker = getSticker();
     ctx.save();
     ctx.rotate(Math.PI*2 * Math.random());
