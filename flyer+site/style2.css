@@ -197,6 +197,29 @@ img.inst_logo {
     width: 100%;
 }
 
+div#select_language {
+    position: absolute;
+    left: 76%;
+    top: 2%;
+}
+
+div#select_language ul {
+    font-size: 100%;
+    line-height: 1.1;
+    font-family: 'PropCourierSans';
+    font-weight: 'regular';
+    list-style-type: none;
+}
+
+div#select_language ul li {
+    cursor: pointer;
+    border-bottom: 1px dashed transparent;
+}
+
+div#select_language ul li.active {
+    border-bottom: 1px dashed #000;
+}
+
 br.clear {
     clear: both;
 }
