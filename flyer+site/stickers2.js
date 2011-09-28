@@ -121,7 +121,7 @@ function getEmptySticker() {
 
 
 function drawGrid () {;
-    width = window.innerWidth;
+    width = $("body").width();
     height = $(document).height();
     ctx.canvas.width = width;
     ctx.canvas.height = height;
@@ -193,7 +193,7 @@ function drawTextCircle (position, text) {
 $(document).ready(function () {
     cnvs = document.getElementById("drawing_surface");
     ctx = cnvs.getContext("2d");
-    width = window.innerWidth;
+    width = $("body").width();
     height = $(document).height();
 
     setBaseSize ();
