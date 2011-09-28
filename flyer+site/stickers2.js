@@ -74,7 +74,7 @@ if(CP && CP.lineTo) CP.fillTextCircle = function(text,x,y,radius,startRotation){
     this.restore();
 }
 
-var factor = 30;
+var factor = 40;
 var baseSize = factor;
 
 var cnvs = null;

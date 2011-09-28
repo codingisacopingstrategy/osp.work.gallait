@@ -97,14 +97,14 @@ div#vo_logo {
     position: fixed;
     bottom: 2%;
     left: 5%;
-    width: 6%;
+    width: 5%;
 }
 
 div#vgc_logo {
     position: fixed;
     bottom: 2%;
     left: 15%;
-    width: 6%;
+    width: 5%;
 }
 
 div#housewarming {
@@ -131,14 +131,14 @@ div#wrapper {
 
 div#logos {
     float: left;
-    width: 27%;
+    width: 25%;
     height: 100%;
 }
 
 div#text {
     float: left;
     margin-top: 25%;
-    width: 65%;
+    width: 51%;
     z-index: 10;
     padding: 0;
 }
