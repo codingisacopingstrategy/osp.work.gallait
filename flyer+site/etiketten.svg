@@ -1,0 +1,2345 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="168mm"
+   version="1.1"
+   viewBox="0 0 111 168"
+   width="111mm"
+   id="svg14534"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="etiketten.svg">
+  <metadata
+     id="metadata14824">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="776"
+     id="namedview14822"
+     showgrid="false"
+     inkscape:zoom="0.96761907"
+     inkscape:cx="231.86169"
+     inkscape:cy="265.17096"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs14536">
+    <circle
+       cx="10.5"
+       cy="10.5"
+       id="id1"
+       r="5.5"
+       sodipodi:cx="10.5"
+       sodipodi:cy="10.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="M 16,10.5 C 16,13.537566 13.537566,16 10.5,16 7.4624339,16 5,13.537566 5,10.5 5,7.4624339 7.4624339,5 10.5,5 13.537566,5 16,7.4624339 16,10.5 z" />
+    <circle
+       cx="31.5"
+       cy="10.5"
+       id="id2"
+       r="5.5"
+       sodipodi:cx="31.5"
+       sodipodi:cy="10.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="M 37,10.5 C 37,13.537566 34.537566,16 31.5,16 28.462434,16 26,13.537566 26,10.5 26,7.4624339 28.462434,5 31.5,5 34.537566,5 37,7.4624339 37,10.5 z" />
+    <circle
+       cx="52.5"
+       cy="10.5"
+       id="id3"
+       r="5.5"
+       sodipodi:cx="52.5"
+       sodipodi:cy="10.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="M 58,10.5 C 58,13.537566 55.537566,16 52.5,16 49.462434,16 47,13.537566 47,10.5 47,7.4624339 49.462434,5 52.5,5 55.537566,5 58,7.4624339 58,10.5 z" />
+    <circle
+       cx="73.5"
+       cy="10.5"
+       id="id4"
+       r="5.5"
+       sodipodi:cx="73.5"
+       sodipodi:cy="10.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="M 79,10.5 C 79,13.537566 76.537566,16 73.5,16 70.462434,16 68,13.537566 68,10.5 68,7.4624339 70.462434,5 73.5,5 76.537566,5 79,7.4624339 79,10.5 z" />
+    <circle
+       cx="94.5"
+       cy="10.5"
+       id="id5"
+       r="5.5"
+       sodipodi:cx="94.5"
+       sodipodi:cy="10.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="M 100,10.5 C 100,13.537566 97.537566,16 94.5,16 91.462434,16 89,13.537566 89,10.5 89,7.4624339 91.462434,5 94.5,5 c 3.037566,0 5.5,2.4624339 5.5,5.5 z" />
+    <circle
+       cx="10.5"
+       cy="31.5"
+       id="id6"
+       r="5.5"
+       sodipodi:cx="10.5"
+       sodipodi:cy="31.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="M 16,31.5 C 16,34.537566 13.537566,37 10.5,37 7.4624339,37 5,34.537566 5,31.5 5,28.462434 7.4624339,26 10.5,26 c 3.037566,0 5.5,2.462434 5.5,5.5 z" />
+    <circle
+       cx="31.5"
+       cy="31.5"
+       id="id7"
+       r="5.5"
+       sodipodi:cx="31.5"
+       sodipodi:cy="31.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="M 37,31.5 C 37,34.537566 34.537566,37 31.5,37 28.462434,37 26,34.537566 26,31.5 26,28.462434 28.462434,26 31.5,26 c 3.037566,0 5.5,2.462434 5.5,5.5 z" />
+    <circle
+       cx="52.5"
+       cy="31.5"
+       id="id8"
+       r="5.5"
+       sodipodi:cx="52.5"
+       sodipodi:cy="31.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="M 58,31.5 C 58,34.537566 55.537566,37 52.5,37 49.462434,37 47,34.537566 47,31.5 47,28.462434 49.462434,26 52.5,26 c 3.037566,0 5.5,2.462434 5.5,5.5 z" />
+    <circle
+       cx="73.5"
+       cy="31.5"
+       id="id9"
+       r="5.5"
+       sodipodi:cx="73.5"
+       sodipodi:cy="31.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="M 79,31.5 C 79,34.537566 76.537566,37 73.5,37 70.462434,37 68,34.537566 68,31.5 68,28.462434 70.462434,26 73.5,26 c 3.037566,0 5.5,2.462434 5.5,5.5 z" />
+    <circle
+       cx="94.5"
+       cy="31.5"
+       id="id10"
+       r="5.5"
+       sodipodi:cx="94.5"
+       sodipodi:cy="31.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="M 100,31.5 C 100,34.537566 97.537566,37 94.5,37 91.462434,37 89,34.537566 89,31.5 89,28.462434 91.462434,26 94.5,26 c 3.037566,0 5.5,2.462434 5.5,5.5 z" />
+    <circle
+       cx="10.5"
+       cy="52.5"
+       id="id11"
+       r="5.5"
+       sodipodi:cx="10.5"
+       sodipodi:cy="52.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="M 16,52.5 C 16,55.537566 13.537566,58 10.5,58 7.4624339,58 5,55.537566 5,52.5 5,49.462434 7.4624339,47 10.5,47 c 3.037566,0 5.5,2.462434 5.5,5.5 z" />
+    <circle
+       cx="31.5"
+       cy="52.5"
+       id="id12"
+       r="5.5"
+       sodipodi:cx="31.5"
+       sodipodi:cy="52.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="M 37,52.5 C 37,55.537566 34.537566,58 31.5,58 28.462434,58 26,55.537566 26,52.5 26,49.462434 28.462434,47 31.5,47 c 3.037566,0 5.5,2.462434 5.5,5.5 z" />
+    <circle
+       cx="52.5"
+       cy="52.5"
+       id="id13"
+       r="5.5"
+       sodipodi:cx="52.5"
+       sodipodi:cy="52.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="M 58,52.5 C 58,55.537566 55.537566,58 52.5,58 49.462434,58 47,55.537566 47,52.5 47,49.462434 49.462434,47 52.5,47 c 3.037566,0 5.5,2.462434 5.5,5.5 z" />
+    <circle
+       cx="73.5"
+       cy="52.5"
+       id="id14"
+       r="5.5"
+       sodipodi:cx="73.5"
+       sodipodi:cy="52.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="M 79,52.5 C 79,55.537566 76.537566,58 73.5,58 70.462434,58 68,55.537566 68,52.5 68,49.462434 70.462434,47 73.5,47 c 3.037566,0 5.5,2.462434 5.5,5.5 z" />
+    <circle
+       cx="94.5"
+       cy="52.5"
+       id="id15"
+       r="5.5"
+       sodipodi:cx="94.5"
+       sodipodi:cy="52.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="M 100,52.5 C 100,55.537566 97.537566,58 94.5,58 91.462434,58 89,55.537566 89,52.5 89,49.462434 91.462434,47 94.5,47 c 3.037566,0 5.5,2.462434 5.5,5.5 z" />
+    <circle
+       cx="10.5"
+       cy="73.5"
+       id="id16"
+       r="5.5"
+       sodipodi:cx="10.5"
+       sodipodi:cy="73.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="M 16,73.5 C 16,76.537566 13.537566,79 10.5,79 7.4624339,79 5,76.537566 5,73.5 5,70.462434 7.4624339,68 10.5,68 c 3.037566,0 5.5,2.462434 5.5,5.5 z" />
+    <circle
+       cx="31.5"
+       cy="73.5"
+       id="id17"
+       r="5.5"
+       sodipodi:cx="31.5"
+       sodipodi:cy="73.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="M 37,73.5 C 37,76.537566 34.537566,79 31.5,79 28.462434,79 26,76.537566 26,73.5 26,70.462434 28.462434,68 31.5,68 c 3.037566,0 5.5,2.462434 5.5,5.5 z" />
+    <circle
+       cx="52.5"
+       cy="73.5"
+       id="id18"
+       r="5.5"
+       sodipodi:cx="52.5"
+       sodipodi:cy="73.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="M 58,73.5 C 58,76.537566 55.537566,79 52.5,79 49.462434,79 47,76.537566 47,73.5 47,70.462434 49.462434,68 52.5,68 c 3.037566,0 5.5,2.462434 5.5,5.5 z" />
+    <circle
+       cx="73.5"
+       cy="73.5"
+       id="id19"
+       r="5.5"
+       sodipodi:cx="73.5"
+       sodipodi:cy="73.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="M 79,73.5 C 79,76.537566 76.537566,79 73.5,79 70.462434,79 68,76.537566 68,73.5 68,70.462434 70.462434,68 73.5,68 c 3.037566,0 5.5,2.462434 5.5,5.5 z" />
+    <circle
+       cx="94.5"
+       cy="73.5"
+       id="id20"
+       r="5.5"
+       sodipodi:cx="94.5"
+       sodipodi:cy="73.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="M 100,73.5 C 100,76.537566 97.537566,79 94.5,79 91.462434,79 89,76.537566 89,73.5 89,70.462434 91.462434,68 94.5,68 c 3.037566,0 5.5,2.462434 5.5,5.5 z" />
+    <circle
+       cx="10.5"
+       cy="94.5"
+       id="id21"
+       r="5.5"
+       sodipodi:cx="10.5"
+       sodipodi:cy="94.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="M 16,94.5 C 16,97.537566 13.537566,100 10.5,100 7.4624339,100 5,97.537566 5,94.5 5,91.462434 7.4624339,89 10.5,89 c 3.037566,0 5.5,2.462434 5.5,5.5 z" />
+    <circle
+       cx="31.5"
+       cy="94.5"
+       id="id22"
+       r="5.5"
+       sodipodi:cx="31.5"
+       sodipodi:cy="94.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="m 37,94.5 c 0,3.037566 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.462434 -5.5,-5.5 0,-3.037566 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.462434 5.5,5.5 z" />
+    <circle
+       cx="52.5"
+       cy="94.5"
+       id="id23"
+       r="5.5"
+       sodipodi:cx="52.5"
+       sodipodi:cy="94.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="m 58,94.5 c 0,3.037566 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.462434 -5.5,-5.5 0,-3.037566 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.462434 5.5,5.5 z" />
+    <circle
+       cx="73.5"
+       cy="94.5"
+       id="id24"
+       r="5.5"
+       sodipodi:cx="73.5"
+       sodipodi:cy="94.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="m 79,94.5 c 0,3.037566 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.462434 -5.5,-5.5 0,-3.037566 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.462434 5.5,5.5 z" />
+    <circle
+       cx="94.5"
+       cy="94.5"
+       id="id25"
+       r="5.5"
+       sodipodi:cx="94.5"
+       sodipodi:cy="94.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="m 100,94.5 c 0,3.037566 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.462434 -5.5,-5.5 0,-3.037566 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.462434 5.5,5.5 z" />
+    <circle
+       cx="10.5"
+       cy="115.5"
+       id="id26"
+       r="5.5"
+       sodipodi:cx="10.5"
+       sodipodi:cy="115.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="m 16,115.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.0375661,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.4624339,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z" />
+    <circle
+       cx="31.5"
+       cy="115.5"
+       id="id27"
+       r="5.5"
+       sodipodi:cx="31.5"
+       sodipodi:cy="115.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="m 37,115.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z" />
+    <circle
+       cx="52.5"
+       cy="115.5"
+       id="id28"
+       r="5.5"
+       sodipodi:cx="52.5"
+       sodipodi:cy="115.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="m 58,115.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z" />
+    <circle
+       cx="73.5"
+       cy="115.5"
+       id="id29"
+       r="5.5"
+       sodipodi:cx="73.5"
+       sodipodi:cy="115.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="m 79,115.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z" />
+    <circle
+       cx="94.5"
+       cy="115.5"
+       id="id30"
+       r="5.5"
+       sodipodi:cx="94.5"
+       sodipodi:cy="115.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="m 100,115.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z" />
+    <circle
+       cx="10.5"
+       cy="136.5"
+       id="id31"
+       r="5.5"
+       sodipodi:cx="10.5"
+       sodipodi:cy="136.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="m 16,136.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.0375661,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.4624339,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z" />
+    <circle
+       cx="31.5"
+       cy="136.5"
+       id="id32"
+       r="5.5"
+       sodipodi:cx="31.5"
+       sodipodi:cy="136.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="m 37,136.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z" />
+    <circle
+       cx="52.5"
+       cy="136.5"
+       id="id33"
+       r="5.5"
+       sodipodi:cx="52.5"
+       sodipodi:cy="136.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="m 58,136.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z" />
+    <circle
+       cx="73.5"
+       cy="136.5"
+       id="id34"
+       r="5.5"
+       sodipodi:cx="73.5"
+       sodipodi:cy="136.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="m 79,136.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z" />
+    <circle
+       cx="94.5"
+       cy="136.5"
+       id="id35"
+       r="5.5"
+       sodipodi:cx="94.5"
+       sodipodi:cy="136.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="m 100,136.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z" />
+    <circle
+       cx="10.5"
+       cy="157.5"
+       id="id36"
+       r="5.5"
+       sodipodi:cx="10.5"
+       sodipodi:cy="157.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="m 16,157.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.0375661,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.4624339,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z" />
+    <circle
+       cx="31.5"
+       cy="157.5"
+       id="id37"
+       r="5.5"
+       sodipodi:cx="31.5"
+       sodipodi:cy="157.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="m 37,157.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z" />
+    <circle
+       cx="52.5"
+       cy="157.5"
+       id="id38"
+       r="5.5"
+       sodipodi:cx="52.5"
+       sodipodi:cy="157.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="m 58,157.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z" />
+    <circle
+       cx="73.5"
+       cy="157.5"
+       id="id39"
+       r="5.5"
+       sodipodi:cx="73.5"
+       sodipodi:cy="157.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="m 79,157.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z" />
+    <circle
+       cx="94.5"
+       cy="157.5"
+       id="id40"
+       r="5.5"
+       sodipodi:cx="94.5"
+       sodipodi:cy="157.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="m 100,157.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z" />
+    <circle
+       cx="10.5"
+       cy="10.5"
+       id="id1-2"
+       r="5.5"
+       sodipodi:cx="10.5"
+       sodipodi:cy="10.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="M 16,10.5 C 16,13.537566 13.537566,16 10.5,16 7.4624339,16 5,13.537566 5,10.5 5,7.4624339 7.4624339,5 10.5,5 13.537566,5 16,7.4624339 16,10.5 z" />
+    <circle
+       cx="31.5"
+       cy="10.5"
+       id="id2-8"
+       r="5.5"
+       sodipodi:cx="31.5"
+       sodipodi:cy="10.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="M 37,10.5 C 37,13.537566 34.537566,16 31.5,16 28.462434,16 26,13.537566 26,10.5 26,7.4624339 28.462434,5 31.5,5 34.537566,5 37,7.4624339 37,10.5 z" />
+    <circle
+       cx="52.5"
+       cy="10.5"
+       id="id3-0"
+       r="5.5"
+       sodipodi:cx="52.5"
+       sodipodi:cy="10.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="M 58,10.5 C 58,13.537566 55.537566,16 52.5,16 49.462434,16 47,13.537566 47,10.5 47,7.4624339 49.462434,5 52.5,5 55.537566,5 58,7.4624339 58,10.5 z" />
+    <circle
+       cx="73.5"
+       cy="10.5"
+       id="id4-3"
+       r="5.5"
+       sodipodi:cx="73.5"
+       sodipodi:cy="10.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="M 79,10.5 C 79,13.537566 76.537566,16 73.5,16 70.462434,16 68,13.537566 68,10.5 68,7.4624339 70.462434,5 73.5,5 76.537566,5 79,7.4624339 79,10.5 z" />
+    <circle
+       cx="94.5"
+       cy="10.5"
+       id="id5-7"
+       r="5.5"
+       sodipodi:cx="94.5"
+       sodipodi:cy="10.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="M 100,10.5 C 100,13.537566 97.537566,16 94.5,16 91.462434,16 89,13.537566 89,10.5 89,7.4624339 91.462434,5 94.5,5 c 3.037566,0 5.5,2.4624339 5.5,5.5 z" />
+    <circle
+       cx="10.5"
+       cy="31.5"
+       id="id6-0"
+       r="5.5"
+       sodipodi:cx="10.5"
+       sodipodi:cy="31.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="M 16,31.5 C 16,34.537566 13.537566,37 10.5,37 7.4624339,37 5,34.537566 5,31.5 5,28.462434 7.4624339,26 10.5,26 c 3.037566,0 5.5,2.462434 5.5,5.5 z" />
+    <circle
+       cx="31.5"
+       cy="31.5"
+       id="id7-0"
+       r="5.5"
+       sodipodi:cx="31.5"
+       sodipodi:cy="31.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="M 37,31.5 C 37,34.537566 34.537566,37 31.5,37 28.462434,37 26,34.537566 26,31.5 26,28.462434 28.462434,26 31.5,26 c 3.037566,0 5.5,2.462434 5.5,5.5 z" />
+    <circle
+       cx="52.5"
+       cy="31.5"
+       id="id8-3"
+       r="5.5"
+       sodipodi:cx="52.5"
+       sodipodi:cy="31.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="M 58,31.5 C 58,34.537566 55.537566,37 52.5,37 49.462434,37 47,34.537566 47,31.5 47,28.462434 49.462434,26 52.5,26 c 3.037566,0 5.5,2.462434 5.5,5.5 z" />
+    <circle
+       cx="73.5"
+       cy="31.5"
+       id="id9-4"
+       r="5.5"
+       sodipodi:cx="73.5"
+       sodipodi:cy="31.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="M 79,31.5 C 79,34.537566 76.537566,37 73.5,37 70.462434,37 68,34.537566 68,31.5 68,28.462434 70.462434,26 73.5,26 c 3.037566,0 5.5,2.462434 5.5,5.5 z" />
+    <circle
+       cx="94.5"
+       cy="31.5"
+       id="id10-9"
+       r="5.5"
+       sodipodi:cx="94.5"
+       sodipodi:cy="31.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="M 100,31.5 C 100,34.537566 97.537566,37 94.5,37 91.462434,37 89,34.537566 89,31.5 89,28.462434 91.462434,26 94.5,26 c 3.037566,0 5.5,2.462434 5.5,5.5 z" />
+    <circle
+       cx="10.5"
+       cy="52.5"
+       id="id11-2"
+       r="5.5"
+       sodipodi:cx="10.5"
+       sodipodi:cy="52.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="M 16,52.5 C 16,55.537566 13.537566,58 10.5,58 7.4624339,58 5,55.537566 5,52.5 5,49.462434 7.4624339,47 10.5,47 c 3.037566,0 5.5,2.462434 5.5,5.5 z" />
+    <circle
+       cx="31.5"
+       cy="52.5"
+       id="id12-7"
+       r="5.5"
+       sodipodi:cx="31.5"
+       sodipodi:cy="52.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="M 37,52.5 C 37,55.537566 34.537566,58 31.5,58 28.462434,58 26,55.537566 26,52.5 26,49.462434 28.462434,47 31.5,47 c 3.037566,0 5.5,2.462434 5.5,5.5 z" />
+    <circle
+       cx="52.5"
+       cy="52.5"
+       id="id13-4"
+       r="5.5"
+       sodipodi:cx="52.5"
+       sodipodi:cy="52.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="M 58,52.5 C 58,55.537566 55.537566,58 52.5,58 49.462434,58 47,55.537566 47,52.5 47,49.462434 49.462434,47 52.5,47 c 3.037566,0 5.5,2.462434 5.5,5.5 z" />
+    <circle
+       cx="73.5"
+       cy="52.5"
+       id="id14-2"
+       r="5.5"
+       sodipodi:cx="73.5"
+       sodipodi:cy="52.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="M 79,52.5 C 79,55.537566 76.537566,58 73.5,58 70.462434,58 68,55.537566 68,52.5 68,49.462434 70.462434,47 73.5,47 c 3.037566,0 5.5,2.462434 5.5,5.5 z" />
+    <circle
+       cx="94.5"
+       cy="52.5"
+       id="id15-5"
+       r="5.5"
+       sodipodi:cx="94.5"
+       sodipodi:cy="52.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="M 100,52.5 C 100,55.537566 97.537566,58 94.5,58 91.462434,58 89,55.537566 89,52.5 89,49.462434 91.462434,47 94.5,47 c 3.037566,0 5.5,2.462434 5.5,5.5 z" />
+    <circle
+       cx="10.5"
+       cy="73.5"
+       id="id16-2"
+       r="5.5"
+       sodipodi:cx="10.5"
+       sodipodi:cy="73.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="M 16,73.5 C 16,76.537566 13.537566,79 10.5,79 7.4624339,79 5,76.537566 5,73.5 5,70.462434 7.4624339,68 10.5,68 c 3.037566,0 5.5,2.462434 5.5,5.5 z" />
+    <circle
+       cx="31.5"
+       cy="73.5"
+       id="id17-4"
+       r="5.5"
+       sodipodi:cx="31.5"
+       sodipodi:cy="73.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="M 37,73.5 C 37,76.537566 34.537566,79 31.5,79 28.462434,79 26,76.537566 26,73.5 26,70.462434 28.462434,68 31.5,68 c 3.037566,0 5.5,2.462434 5.5,5.5 z" />
+    <circle
+       cx="52.5"
+       cy="73.5"
+       id="id18-4"
+       r="5.5"
+       sodipodi:cx="52.5"
+       sodipodi:cy="73.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="M 58,73.5 C 58,76.537566 55.537566,79 52.5,79 49.462434,79 47,76.537566 47,73.5 47,70.462434 49.462434,68 52.5,68 c 3.037566,0 5.5,2.462434 5.5,5.5 z" />
+    <circle
+       cx="73.5"
+       cy="73.5"
+       id="id19-3"
+       r="5.5"
+       sodipodi:cx="73.5"
+       sodipodi:cy="73.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="M 79,73.5 C 79,76.537566 76.537566,79 73.5,79 70.462434,79 68,76.537566 68,73.5 68,70.462434 70.462434,68 73.5,68 c 3.037566,0 5.5,2.462434 5.5,5.5 z" />
+    <circle
+       cx="94.5"
+       cy="73.5"
+       id="id20-8"
+       r="5.5"
+       sodipodi:cx="94.5"
+       sodipodi:cy="73.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="M 100,73.5 C 100,76.537566 97.537566,79 94.5,79 91.462434,79 89,76.537566 89,73.5 89,70.462434 91.462434,68 94.5,68 c 3.037566,0 5.5,2.462434 5.5,5.5 z" />
+    <circle
+       cx="10.5"
+       cy="94.5"
+       id="id21-6"
+       r="5.5"
+       sodipodi:cx="10.5"
+       sodipodi:cy="94.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="M 16,94.5 C 16,97.537566 13.537566,100 10.5,100 7.4624339,100 5,97.537566 5,94.5 5,91.462434 7.4624339,89 10.5,89 c 3.037566,0 5.5,2.462434 5.5,5.5 z" />
+    <circle
+       cx="31.5"
+       cy="94.5"
+       id="id22-0"
+       r="5.5"
+       sodipodi:cx="31.5"
+       sodipodi:cy="94.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="m 37,94.5 c 0,3.037566 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.462434 -5.5,-5.5 0,-3.037566 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.462434 5.5,5.5 z" />
+    <circle
+       cx="52.5"
+       cy="94.5"
+       id="id23-8"
+       r="5.5"
+       sodipodi:cx="52.5"
+       sodipodi:cy="94.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="m 58,94.5 c 0,3.037566 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.462434 -5.5,-5.5 0,-3.037566 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.462434 5.5,5.5 z" />
+    <circle
+       cx="73.5"
+       cy="94.5"
+       id="id24-9"
+       r="5.5"
+       sodipodi:cx="73.5"
+       sodipodi:cy="94.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="m 79,94.5 c 0,3.037566 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.462434 -5.5,-5.5 0,-3.037566 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.462434 5.5,5.5 z" />
+    <circle
+       cx="94.5"
+       cy="94.5"
+       id="id25-2"
+       r="5.5"
+       sodipodi:cx="94.5"
+       sodipodi:cy="94.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="m 100,94.5 c 0,3.037566 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.462434 -5.5,-5.5 0,-3.037566 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.462434 5.5,5.5 z" />
+    <circle
+       cx="10.5"
+       cy="115.5"
+       id="id26-2"
+       r="5.5"
+       sodipodi:cx="10.5"
+       sodipodi:cy="115.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="m 16,115.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.0375661,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.4624339,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z" />
+    <circle
+       cx="31.5"
+       cy="115.5"
+       id="id27-3"
+       r="5.5"
+       sodipodi:cx="31.5"
+       sodipodi:cy="115.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="m 37,115.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z" />
+    <circle
+       cx="52.5"
+       cy="115.5"
+       id="id28-1"
+       r="5.5"
+       sodipodi:cx="52.5"
+       sodipodi:cy="115.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="m 58,115.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z" />
+    <circle
+       cx="73.5"
+       cy="115.5"
+       id="id29-8"
+       r="5.5"
+       sodipodi:cx="73.5"
+       sodipodi:cy="115.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="m 79,115.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z" />
+    <circle
+       cx="94.5"
+       cy="115.5"
+       id="id30-3"
+       r="5.5"
+       sodipodi:cx="94.5"
+       sodipodi:cy="115.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="m 100,115.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z" />
+    <circle
+       cx="10.5"
+       cy="136.5"
+       id="id31-4"
+       r="5.5"
+       sodipodi:cx="10.5"
+       sodipodi:cy="136.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="m 16,136.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.0375661,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.4624339,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z" />
+    <circle
+       cx="31.5"
+       cy="136.5"
+       id="id32-2"
+       r="5.5"
+       sodipodi:cx="31.5"
+       sodipodi:cy="136.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="m 37,136.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z" />
+    <circle
+       cx="52.5"
+       cy="136.5"
+       id="id33-2"
+       r="5.5"
+       sodipodi:cx="52.5"
+       sodipodi:cy="136.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="m 58,136.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z" />
+    <circle
+       cx="73.5"
+       cy="136.5"
+       id="id34-4"
+       r="5.5"
+       sodipodi:cx="73.5"
+       sodipodi:cy="136.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="m 79,136.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z" />
+    <circle
+       cx="94.5"
+       cy="136.5"
+       id="id35-5"
+       r="5.5"
+       sodipodi:cx="94.5"
+       sodipodi:cy="136.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="m 100,136.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z" />
+    <circle
+       cx="10.5"
+       cy="157.5"
+       id="id36-1"
+       r="5.5"
+       sodipodi:cx="10.5"
+       sodipodi:cy="157.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="m 16,157.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.0375661,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.4624339,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z" />
+    <circle
+       cx="31.5"
+       cy="157.5"
+       id="id37-7"
+       r="5.5"
+       sodipodi:cx="31.5"
+       sodipodi:cy="157.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="m 37,157.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z" />
+    <circle
+       cx="52.5"
+       cy="157.5"
+       id="id38-5"
+       r="5.5"
+       sodipodi:cx="52.5"
+       sodipodi:cy="157.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="m 58,157.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z" />
+    <circle
+       cx="73.5"
+       cy="157.5"
+       id="id39-7"
+       r="5.5"
+       sodipodi:cx="73.5"
+       sodipodi:cy="157.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="m 79,157.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z" />
+    <circle
+       cx="94.5"
+       cy="157.5"
+       id="id40-1"
+       r="5.5"
+       sodipodi:cx="94.5"
+       sodipodi:cy="157.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:none;stroke:none"
+       d="m 100,157.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Cirkels"
+     style="display:none">
+    <circle
+       d="M 20,10.5 C 20,15.746705 15.746705,20 10.5,20 5.2532949,20 1,15.746705 1,10.5 1,5.2532949 5.2532949,1 10.5,1 15.746705,1 20,5.2532949 20,10.5 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2"
+       sodipodi:ry="9.5"
+       sodipodi:rx="9.5"
+       sodipodi:cy="10.5"
+       sodipodi:cx="10.5"
+       id="circle14540"
+       r="9.5"
+       cy="10.5"
+       cx="10.5"
+       transform="matrix(-0.72770119,-0.6858943,0.6858943,-0.72770119,98.325642,172.34276)" />
+    <circle
+       d="M 41,10.5 C 41,15.746705 36.746705,20 31.5,20 26.253295,20 22,15.746705 22,10.5 22,5.2532949 26.253295,1 31.5,1 36.746705,1 41,5.2532949 41,10.5 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2"
+       sodipodi:ry="9.5"
+       sodipodi:rx="9.5"
+       sodipodi:cy="10.5"
+       sodipodi:cx="31.5"
+       id="circle14542"
+       r="9.5"
+       cy="10.5"
+       cx="31.5"
+       transform="matrix(-0.63334481,-0.77386973,0.77386973,-0.63334481,88.711399,188.52703)" />
+    <circle
+       d="M 62,10.5 C 62,15.746705 57.746705,20 52.5,20 47.253295,20 43,15.746705 43,10.5 43,5.2532949 47.253295,1 52.5,1 57.746705,1 62,5.2532949 62,10.5 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2"
+       sodipodi:ry="9.5"
+       sodipodi:rx="9.5"
+       sodipodi:cy="10.5"
+       sodipodi:cx="52.5"
+       id="circle14544"
+       r="9.5"
+       cy="10.5"
+       cx="52.5"
+       transform="matrix(-0.96246122,0.27141923,-0.27141923,-0.96246122,109.26579,153.35634)" />
+    <circle
+       d="M 83,10.5 C 83,15.746705 78.746705,20 73.5,20 68.253295,20 64,15.746705 64,10.5 64,5.2532949 68.253295,1 73.5,1 78.746705,1 83,5.2532949 83,10.5 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2"
+       sodipodi:ry="9.5"
+       sodipodi:rx="9.5"
+       sodipodi:cy="10.5"
+       sodipodi:cx="73.5"
+       id="circle14546"
+       r="9.5"
+       cy="10.5"
+       cx="73.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.00001)" />
+    <circle
+       d="M 104,10.5 C 104,15.746705 99.746705,20 94.5,20 89.253295,20 85,15.746705 85,10.5 85,5.2532949 89.253295,1 94.5,1 c 5.246705,0 9.5,4.2532949 9.5,9.5 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2"
+       sodipodi:ry="9.5"
+       sodipodi:rx="9.5"
+       sodipodi:cy="10.5"
+       sodipodi:cx="94.5"
+       id="circle14548"
+       r="9.5"
+       cy="10.5"
+       cx="94.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.00001)" />
+    <circle
+       d="M 20,31.5 C 20,36.746705 15.746705,41 10.5,41 5.2532949,41 1,36.746705 1,31.5 1,26.253295 5.2532949,22 10.5,22 c 5.246705,0 9.5,4.253295 9.5,9.5 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2"
+       sodipodi:ry="9.5"
+       sodipodi:rx="9.5"
+       sodipodi:cy="31.5"
+       sodipodi:cx="10.5"
+       id="circle14550"
+       r="9.5"
+       cy="31.5"
+       cx="10.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.00001)" />
+    <circle
+       d="M 41,31.5 C 41,36.746705 36.746705,41 31.5,41 26.253295,41 22,36.746705 22,31.5 22,26.253295 26.253295,22 31.5,22 c 5.246705,0 9.5,4.253295 9.5,9.5 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2"
+       sodipodi:ry="9.5"
+       sodipodi:rx="9.5"
+       sodipodi:cy="31.5"
+       sodipodi:cx="31.5"
+       id="circle14552"
+       r="9.5"
+       cy="31.5"
+       cx="31.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.00001)" />
+    <circle
+       d="M 62,31.5 C 62,36.746705 57.746705,41 52.5,41 47.253295,41 43,36.746705 43,31.5 43,26.253295 47.253295,22 52.5,22 c 5.246705,0 9.5,4.253295 9.5,9.5 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2"
+       sodipodi:ry="9.5"
+       sodipodi:rx="9.5"
+       sodipodi:cy="31.5"
+       sodipodi:cx="52.5"
+       id="circle14554"
+       r="9.5"
+       cy="31.5"
+       cx="52.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.00001)" />
+    <circle
+       d="M 83,31.5 C 83,36.746705 78.746705,41 73.5,41 68.253295,41 64,36.746705 64,31.5 64,26.253295 68.253295,22 73.5,22 c 5.246705,0 9.5,4.253295 9.5,9.5 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2"
+       sodipodi:ry="9.5"
+       sodipodi:rx="9.5"
+       sodipodi:cy="31.5"
+       sodipodi:cx="73.5"
+       id="circle14556"
+       r="9.5"
+       cy="31.5"
+       cx="73.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.00001)" />
+    <circle
+       d="M 104,31.5 C 104,36.746705 99.746705,41 94.5,41 89.253295,41 85,36.746705 85,31.5 85,26.253295 89.253295,22 94.5,22 c 5.246705,0 9.5,4.253295 9.5,9.5 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2"
+       sodipodi:ry="9.5"
+       sodipodi:rx="9.5"
+       sodipodi:cy="31.5"
+       sodipodi:cx="94.5"
+       id="circle14558"
+       r="9.5"
+       cy="31.5"
+       cx="94.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.00001)" />
+    <circle
+       d="M 20,52.5 C 20,57.746705 15.746705,62 10.5,62 5.2532949,62 1,57.746705 1,52.5 1,47.253295 5.2532949,43 10.5,43 c 5.246705,0 9.5,4.253295 9.5,9.5 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2"
+       sodipodi:ry="9.5"
+       sodipodi:rx="9.5"
+       sodipodi:cy="52.5"
+       sodipodi:cx="10.5"
+       id="circle14560"
+       r="9.5"
+       cy="52.5"
+       cx="10.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.00001)" />
+    <circle
+       d="M 41,52.5 C 41,57.746705 36.746705,62 31.5,62 26.253295,62 22,57.746705 22,52.5 22,47.253295 26.253295,43 31.5,43 c 5.246705,0 9.5,4.253295 9.5,9.5 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2"
+       sodipodi:ry="9.5"
+       sodipodi:rx="9.5"
+       sodipodi:cy="52.5"
+       sodipodi:cx="31.5"
+       id="circle14562"
+       r="9.5"
+       cy="52.5"
+       cx="31.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.00001)" />
+    <circle
+       d="M 62,52.5 C 62,57.746705 57.746705,62 52.5,62 47.253295,62 43,57.746705 43,52.5 43,47.253295 47.253295,43 52.5,43 c 5.246705,0 9.5,4.253295 9.5,9.5 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2"
+       sodipodi:ry="9.5"
+       sodipodi:rx="9.5"
+       sodipodi:cy="52.5"
+       sodipodi:cx="52.5"
+       id="circle14564"
+       r="9.5"
+       cy="52.5"
+       cx="52.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.00001)" />
+    <circle
+       d="M 83,52.5 C 83,57.746705 78.746705,62 73.5,62 68.253295,62 64,57.746705 64,52.5 64,47.253295 68.253295,43 73.5,43 c 5.246705,0 9.5,4.253295 9.5,9.5 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2"
+       sodipodi:ry="9.5"
+       sodipodi:rx="9.5"
+       sodipodi:cy="52.5"
+       sodipodi:cx="73.5"
+       id="circle14566"
+       r="9.5"
+       cy="52.5"
+       cx="73.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.00001)" />
+    <circle
+       d="M 104,52.5 C 104,57.746705 99.746705,62 94.5,62 89.253295,62 85,57.746705 85,52.5 85,47.253295 89.253295,43 94.5,43 c 5.246705,0 9.5,4.253295 9.5,9.5 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2"
+       sodipodi:ry="9.5"
+       sodipodi:rx="9.5"
+       sodipodi:cy="52.5"
+       sodipodi:cx="94.5"
+       id="circle14568"
+       r="9.5"
+       cy="52.5"
+       cx="94.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.00001)" />
+    <circle
+       d="M 20,73.5 C 20,78.746705 15.746705,83 10.5,83 5.2532949,83 1,78.746705 1,73.5 1,68.253295 5.2532949,64 10.5,64 c 5.246705,0 9.5,4.253295 9.5,9.5 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2"
+       sodipodi:ry="9.5"
+       sodipodi:rx="9.5"
+       sodipodi:cy="73.5"
+       sodipodi:cx="10.5"
+       id="circle14570"
+       r="9.5"
+       cy="73.5"
+       cx="10.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.00001)" />
+    <circle
+       d="M 41,73.5 C 41,78.746705 36.746705,83 31.5,83 26.253295,83 22,78.746705 22,73.5 22,68.253295 26.253295,64 31.5,64 c 5.246705,0 9.5,4.253295 9.5,9.5 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2"
+       sodipodi:ry="9.5"
+       sodipodi:rx="9.5"
+       sodipodi:cy="73.5"
+       sodipodi:cx="31.5"
+       id="circle14572"
+       r="9.5"
+       cy="73.5"
+       cx="31.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.00001)" />
+    <circle
+       d="M 62,73.5 C 62,78.746705 57.746705,83 52.5,83 47.253295,83 43,78.746705 43,73.5 43,68.253295 47.253295,64 52.5,64 c 5.246705,0 9.5,4.253295 9.5,9.5 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2"
+       sodipodi:ry="9.5"
+       sodipodi:rx="9.5"
+       sodipodi:cy="73.5"
+       sodipodi:cx="52.5"
+       id="circle14574"
+       r="9.5"
+       cy="73.5"
+       cx="52.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.00001)" />
+    <circle
+       d="M 83,73.5 C 83,78.746705 78.746705,83 73.5,83 68.253295,83 64,78.746705 64,73.5 64,68.253295 68.253295,64 73.5,64 c 5.246705,0 9.5,4.253295 9.5,9.5 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2"
+       sodipodi:ry="9.5"
+       sodipodi:rx="9.5"
+       sodipodi:cy="73.5"
+       sodipodi:cx="73.5"
+       id="circle14576"
+       r="9.5"
+       cy="73.5"
+       cx="73.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.00001)" />
+    <circle
+       d="M 104,73.5 C 104,78.746705 99.746705,83 94.5,83 89.253295,83 85,78.746705 85,73.5 85,68.253295 89.253295,64 94.5,64 c 5.246705,0 9.5,4.253295 9.5,9.5 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2"
+       sodipodi:ry="9.5"
+       sodipodi:rx="9.5"
+       sodipodi:cy="73.5"
+       sodipodi:cx="94.5"
+       id="circle14578"
+       r="9.5"
+       cy="73.5"
+       cx="94.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.00001)" />
+    <circle
+       d="M 20,94.5 C 20,99.746705 15.746705,104 10.5,104 5.2532949,104 1,99.746705 1,94.5 1,89.253295 5.2532949,85 10.5,85 c 5.246705,0 9.5,4.253295 9.5,9.5 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2"
+       sodipodi:ry="9.5"
+       sodipodi:rx="9.5"
+       sodipodi:cy="94.5"
+       sodipodi:cx="10.5"
+       id="circle14580"
+       r="9.5"
+       cy="94.5"
+       cx="10.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.00001)" />
+    <circle
+       d="m 41,94.5 c 0,5.246705 -4.253295,9.5 -9.5,9.5 -5.246705,0 -9.5,-4.253295 -9.5,-9.5 0,-5.246705 4.253295,-9.5 9.5,-9.5 5.246705,0 9.5,4.253295 9.5,9.5 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2"
+       sodipodi:ry="9.5"
+       sodipodi:rx="9.5"
+       sodipodi:cy="94.5"
+       sodipodi:cx="31.5"
+       id="circle14582"
+       r="9.5"
+       cy="94.5"
+       cx="31.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.00001)" />
+    <circle
+       d="m 62,94.5 c 0,5.246705 -4.253295,9.5 -9.5,9.5 -5.246705,0 -9.5,-4.253295 -9.5,-9.5 0,-5.246705 4.253295,-9.5 9.5,-9.5 5.246705,0 9.5,4.253295 9.5,9.5 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2"
+       sodipodi:ry="9.5"
+       sodipodi:rx="9.5"
+       sodipodi:cy="94.5"
+       sodipodi:cx="52.5"
+       id="circle14584"
+       r="9.5"
+       cy="94.5"
+       cx="52.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.00001)" />
+    <circle
+       d="m 83,94.5 c 0,5.246705 -4.253295,9.5 -9.5,9.5 -5.246705,0 -9.5,-4.253295 -9.5,-9.5 0,-5.246705 4.253295,-9.5 9.5,-9.5 5.246705,0 9.5,4.253295 9.5,9.5 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2"
+       sodipodi:ry="9.5"
+       sodipodi:rx="9.5"
+       sodipodi:cy="94.5"
+       sodipodi:cx="73.5"
+       id="circle14586"
+       r="9.5"
+       cy="94.5"
+       cx="73.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.00001)" />
+    <circle
+       d="m 104,94.5 c 0,5.246705 -4.253295,9.5 -9.5,9.5 -5.246705,0 -9.5,-4.253295 -9.5,-9.5 0,-5.246705 4.253295,-9.5 9.5,-9.5 5.246705,0 9.5,4.253295 9.5,9.5 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2"
+       sodipodi:ry="9.5"
+       sodipodi:rx="9.5"
+       sodipodi:cy="94.5"
+       sodipodi:cx="94.5"
+       id="circle14588"
+       r="9.5"
+       cy="94.5"
+       cx="94.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.00001)" />
+    <circle
+       d="m 20,115.5 c 0,5.24671 -4.253295,9.5 -9.5,9.5 -5.2467051,0 -9.5,-4.25329 -9.5,-9.5 0,-5.24671 4.2532949,-9.5 9.5,-9.5 5.246705,0 9.5,4.25329 9.5,9.5 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2"
+       sodipodi:ry="9.5"
+       sodipodi:rx="9.5"
+       sodipodi:cy="115.5"
+       sodipodi:cx="10.5"
+       id="circle14590"
+       r="9.5"
+       cy="115.5"
+       cx="10.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.00001)" />
+    <circle
+       d="m 41,115.5 c 0,5.24671 -4.253295,9.5 -9.5,9.5 -5.246705,0 -9.5,-4.25329 -9.5,-9.5 0,-5.24671 4.253295,-9.5 9.5,-9.5 5.246705,0 9.5,4.25329 9.5,9.5 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2"
+       sodipodi:ry="9.5"
+       sodipodi:rx="9.5"
+       sodipodi:cy="115.5"
+       sodipodi:cx="31.5"
+       id="circle14592"
+       r="9.5"
+       cy="115.5"
+       cx="31.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.00001)" />
+    <circle
+       d="m 62,115.5 c 0,5.24671 -4.253295,9.5 -9.5,9.5 -5.246705,0 -9.5,-4.25329 -9.5,-9.5 0,-5.24671 4.253295,-9.5 9.5,-9.5 5.246705,0 9.5,4.25329 9.5,9.5 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2"
+       sodipodi:ry="9.5"
+       sodipodi:rx="9.5"
+       sodipodi:cy="115.5"
+       sodipodi:cx="52.5"
+       id="circle14594"
+       r="9.5"
+       cy="115.5"
+       cx="52.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.00001)" />
+    <circle
+       d="m 83,115.5 c 0,5.24671 -4.253295,9.5 -9.5,9.5 -5.246705,0 -9.5,-4.25329 -9.5,-9.5 0,-5.24671 4.253295,-9.5 9.5,-9.5 5.246705,0 9.5,4.25329 9.5,9.5 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2"
+       sodipodi:ry="9.5"
+       sodipodi:rx="9.5"
+       sodipodi:cy="115.5"
+       sodipodi:cx="73.5"
+       id="circle14596"
+       r="9.5"
+       cy="115.5"
+       cx="73.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.00001)" />
+    <circle
+       d="m 104,115.5 c 0,5.24671 -4.253295,9.5 -9.5,9.5 -5.246705,0 -9.5,-4.25329 -9.5,-9.5 0,-5.24671 4.253295,-9.5 9.5,-9.5 5.246705,0 9.5,4.25329 9.5,9.5 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2"
+       sodipodi:ry="9.5"
+       sodipodi:rx="9.5"
+       sodipodi:cy="115.5"
+       sodipodi:cx="94.5"
+       id="circle14598"
+       r="9.5"
+       cy="115.5"
+       cx="94.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.00001)" />
+    <circle
+       d="m 20,136.5 c 0,5.24671 -4.253295,9.5 -9.5,9.5 -5.2467051,0 -9.5,-4.25329 -9.5,-9.5 0,-5.24671 4.2532949,-9.5 9.5,-9.5 5.246705,0 9.5,4.25329 9.5,9.5 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2"
+       sodipodi:ry="9.5"
+       sodipodi:rx="9.5"
+       sodipodi:cy="136.5"
+       sodipodi:cx="10.5"
+       id="circle14600"
+       r="9.5"
+       cy="136.5"
+       cx="10.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.00001)" />
+    <circle
+       d="m 41,136.5 c 0,5.24671 -4.253295,9.5 -9.5,9.5 -5.246705,0 -9.5,-4.25329 -9.5,-9.5 0,-5.24671 4.253295,-9.5 9.5,-9.5 5.246705,0 9.5,4.25329 9.5,9.5 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2"
+       sodipodi:ry="9.5"
+       sodipodi:rx="9.5"
+       sodipodi:cy="136.5"
+       sodipodi:cx="31.5"
+       id="circle14602"
+       r="9.5"
+       cy="136.5"
+       cx="31.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.00001)" />
+    <circle
+       d="m 62,136.5 c 0,5.24671 -4.253295,9.5 -9.5,9.5 -5.246705,0 -9.5,-4.25329 -9.5,-9.5 0,-5.24671 4.253295,-9.5 9.5,-9.5 5.246705,0 9.5,4.25329 9.5,9.5 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2"
+       sodipodi:ry="9.5"
+       sodipodi:rx="9.5"
+       sodipodi:cy="136.5"
+       sodipodi:cx="52.5"
+       id="circle14604"
+       r="9.5"
+       cy="136.5"
+       cx="52.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.00001)" />
+    <circle
+       d="m 83,136.5 c 0,5.24671 -4.253295,9.5 -9.5,9.5 -5.246705,0 -9.5,-4.25329 -9.5,-9.5 0,-5.24671 4.253295,-9.5 9.5,-9.5 5.246705,0 9.5,4.25329 9.5,9.5 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2"
+       sodipodi:ry="9.5"
+       sodipodi:rx="9.5"
+       sodipodi:cy="136.5"
+       sodipodi:cx="73.5"
+       id="circle14606"
+       r="9.5"
+       cy="136.5"
+       cx="73.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.00001)" />
+    <circle
+       d="m 104,136.5 c 0,5.24671 -4.253295,9.5 -9.5,9.5 -5.246705,0 -9.5,-4.25329 -9.5,-9.5 0,-5.24671 4.253295,-9.5 9.5,-9.5 5.246705,0 9.5,4.25329 9.5,9.5 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2"
+       sodipodi:ry="9.5"
+       sodipodi:rx="9.5"
+       sodipodi:cy="136.5"
+       sodipodi:cx="94.5"
+       id="circle14608"
+       r="9.5"
+       cy="136.5"
+       cx="94.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.00001)" />
+    <circle
+       d="m 20,157.5 c 0,5.24671 -4.253295,9.5 -9.5,9.5 -5.2467051,0 -9.5,-4.25329 -9.5,-9.5 0,-5.24671 4.2532949,-9.5 9.5,-9.5 5.246705,0 9.5,4.25329 9.5,9.5 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2"
+       sodipodi:ry="9.5"
+       sodipodi:rx="9.5"
+       sodipodi:cy="157.5"
+       sodipodi:cx="10.5"
+       id="circle14610"
+       r="9.5"
+       cy="157.5"
+       cx="10.5"
+       transform="matrix(0.76023379,0.64964958,-0.64964958,0.76023379,192.22402,-116.05813)" />
+    <circle
+       d="m 41,157.5 c 0,5.24671 -4.253295,9.5 -9.5,9.5 -5.246705,0 -9.5,-4.25329 -9.5,-9.5 0,-5.24671 4.253295,-9.5 9.5,-9.5 5.246705,0 9.5,4.25329 9.5,9.5 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2"
+       sodipodi:ry="9.5"
+       sodipodi:rx="9.5"
+       sodipodi:cy="157.5"
+       sodipodi:cx="31.5"
+       id="circle14612"
+       r="9.5"
+       cy="157.5"
+       cx="31.5"
+       transform="matrix(0.79439333,0.60740368,-0.60740368,0.79439333,147.52936,-133.75016)" />
+    <circle
+       d="m 62,157.5 c 0,5.24671 -4.253295,9.5 -9.5,9.5 -5.246705,0 -9.5,-4.25329 -9.5,-9.5 0,-5.24671 4.253295,-9.5 9.5,-9.5 5.246705,0 9.5,4.25329 9.5,9.5 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2"
+       sodipodi:ry="9.5"
+       sodipodi:rx="9.5"
+       sodipodi:cy="157.5"
+       sodipodi:cx="52.5"
+       id="circle14614"
+       r="9.5"
+       cy="157.5"
+       cx="52.5"
+       transform="matrix(0.91776248,-0.39712975,0.39712975,0.91776248,-54.843795,-113.19827)" />
+    <circle
+       d="m 83,157.5 c 0,5.24671 -4.253295,9.5 -9.5,9.5 -5.246705,0 -9.5,-4.25329 -9.5,-9.5 0,-5.24671 4.253295,-9.5 9.5,-9.5 5.246705,0 9.5,4.25329 9.5,9.5 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2"
+       sodipodi:ry="9.5"
+       sodipodi:rx="9.5"
+       sodipodi:cy="157.5"
+       sodipodi:cx="73.5"
+       id="circle14616"
+       r="9.5"
+       cy="157.5"
+       cx="73.5"
+       transform="matrix(0.99835584,0.0573203,-0.0573203,0.99835584,-29.464537,-150.95408)" />
+    <circle
+       d="m 104,157.5 c 0,5.24671 -4.253295,9.5 -9.5,9.5 -5.246705,0 -9.5,-4.25329 -9.5,-9.5 0,-5.24671 4.253295,-9.5 9.5,-9.5 5.246705,0 9.5,4.25329 9.5,9.5 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2"
+       sodipodi:ry="9.5"
+       sodipodi:rx="9.5"
+       sodipodi:cy="157.5"
+       sodipodi:cx="94.5"
+       id="circle14618"
+       r="9.5"
+       cy="157.5"
+       cx="94.5"
+       transform="matrix(0.99980074,-0.01996179,0.01996179,0.99980074,-83.738483,-145.08222)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Teksten"
+     style="display:inline">
+    <circle
+       d="M 16,10.5 C 16,13.537566 13.537566,16 10.5,16 7.4624339,16 5,13.537566 5,10.5 5,7.4624339 7.4624339,5 10.5,5 13.537566,5 16,7.4624339 16,10.5 z"
+       style="fill:none;stroke:none"
+       sodipodi:ry="5.5"
+       sodipodi:rx="5.5"
+       sodipodi:cy="10.5"
+       sodipodi:cx="10.5"
+       r="5.5"
+       id="circle15129"
+       cy="10.5"
+       cx="10.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)" />
+    <text
+       style="font-size:4px;font-family:Crickx"
+       id="text14623"
+       y="0"
+       x="0"
+       font-size="4"
+       transform="matrix(-0.72770119,-0.6858943,0.6858943,-0.72770119,98.325642,172.9072)">
+      <textPath
+         id="textPath14625"
+         xlink:href="#id1-2">FREE</textPath>
+    </text>
+    <circle
+       d="M 37,10.5 C 37,13.537566 34.537566,16 31.5,16 28.462434,16 26,13.537566 26,10.5 26,7.4624339 28.462434,5 31.5,5 34.537566,5 37,7.4624339 37,10.5 z"
+       style="fill:none;stroke:none"
+       sodipodi:ry="5.5"
+       sodipodi:rx="5.5"
+       sodipodi:cy="10.5"
+       sodipodi:cx="31.5"
+       r="5.5"
+       id="circle15133"
+       cy="10.5"
+       cx="31.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)" />
+    <text
+       style="font-size:4px;font-family:Crickx"
+       id="text14628"
+       y="0"
+       x="0"
+       font-size="4"
+       transform="matrix(-0.63334481,-0.77386973,0.77386973,-0.63334481,88.711399,189.09147)">
+      <textPath
+         id="textPath14630"
+         xlink:href="#id2-8">LIBRE</textPath>
+    </text>
+    <circle
+       d="M 58,10.5 C 58,13.537566 55.537566,16 52.5,16 49.462434,16 47,13.537566 47,10.5 47,7.4624339 49.462434,5 52.5,5 55.537566,5 58,7.4624339 58,10.5 z"
+       style="fill:none;stroke:none"
+       sodipodi:ry="5.5"
+       sodipodi:rx="5.5"
+       sodipodi:cy="10.5"
+       sodipodi:cx="52.5"
+       r="5.5"
+       id="circle15137"
+       cy="10.5"
+       cx="52.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)" />
+    <text
+       style="font-size:4px;font-family:Crickx"
+       id="text14633"
+       y="0"
+       x="0"
+       font-size="4"
+       transform="matrix(-0.96246122,0.27141923,-0.27141923,-0.96246122,109.26579,153.92078)">
+      <textPath
+         id="textPath14635"
+         xlink:href="#id3-0">OPEN SOURCE</textPath>
+    </text>
+    <circle
+       d="M 79,10.5 C 79,13.537566 76.537566,16 73.5,16 70.462434,16 68,13.537566 68,10.5 68,7.4624339 70.462434,5 73.5,5 76.537566,5 79,7.4624339 79,10.5 z"
+       style="fill:none;stroke:none"
+       sodipodi:ry="5.5"
+       sodipodi:rx="5.5"
+       sodipodi:cy="10.5"
+       sodipodi:cx="73.5"
+       r="5.5"
+       id="circle15141"
+       cy="10.5"
+       cx="73.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)" />
+    <text
+       style="font-size:4px;font-family:Crickx"
+       id="text14638"
+       y="0"
+       x="0"
+       font-size="4"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)">
+      <textPath
+         id="textPath14640"
+         xlink:href="#id4-3">SOFTWARE</textPath>
+    </text>
+    <circle
+       d="M 100,10.5 C 100,13.537566 97.537566,16 94.5,16 91.462434,16 89,13.537566 89,10.5 89,7.4624339 91.462434,5 94.5,5 c 3.037566,0 5.5,2.4624339 5.5,5.5 z"
+       style="fill:none;stroke:none"
+       sodipodi:ry="5.5"
+       sodipodi:rx="5.5"
+       sodipodi:cy="10.5"
+       sodipodi:cx="94.5"
+       r="5.5"
+       id="circle15145"
+       cy="10.5"
+       cx="94.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)" />
+    <text
+       style="font-size:4px;font-family:Crickx"
+       id="text14643"
+       y="0"
+       x="0"
+       font-size="4"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)">
+      <textPath
+         id="textPath14645"
+         xlink:href="#id5-7">ARTS LAB</textPath>
+    </text>
+    <circle
+       d="M 16,31.5 C 16,34.537566 13.537566,37 10.5,37 7.4624339,37 5,34.537566 5,31.5 5,28.462434 7.4624339,26 10.5,26 c 3.037566,0 5.5,2.462434 5.5,5.5 z"
+       style="fill:none;stroke:none"
+       sodipodi:ry="5.5"
+       sodipodi:rx="5.5"
+       sodipodi:cy="31.5"
+       sodipodi:cx="10.5"
+       r="5.5"
+       id="circle15149"
+       cy="31.5"
+       cx="10.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)" />
+    <text
+       style="font-size:4px;font-family:Crickx"
+       id="text14648"
+       y="0"
+       x="0"
+       font-size="4"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)">
+      <textPath
+         id="textPath14650"
+         xlink:href="#id6-0">FREE</textPath>
+    </text>
+    <circle
+       d="M 37,31.5 C 37,34.537566 34.537566,37 31.5,37 28.462434,37 26,34.537566 26,31.5 26,28.462434 28.462434,26 31.5,26 c 3.037566,0 5.5,2.462434 5.5,5.5 z"
+       style="fill:none;stroke:none"
+       sodipodi:ry="5.5"
+       sodipodi:rx="5.5"
+       sodipodi:cy="31.5"
+       sodipodi:cx="31.5"
+       r="5.5"
+       id="circle15153"
+       cy="31.5"
+       cx="31.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)" />
+    <text
+       style="font-size:4px;font-family:Crickx"
+       id="text14653"
+       y="0"
+       x="0"
+       font-size="4"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)">
+      <textPath
+         id="textPath14655"
+         xlink:href="#id7-0">LIBRE</textPath>
+    </text>
+    <circle
+       d="M 58,31.5 C 58,34.537566 55.537566,37 52.5,37 49.462434,37 47,34.537566 47,31.5 47,28.462434 49.462434,26 52.5,26 c 3.037566,0 5.5,2.462434 5.5,5.5 z"
+       style="fill:none;stroke:none"
+       sodipodi:ry="5.5"
+       sodipodi:rx="5.5"
+       sodipodi:cy="31.5"
+       sodipodi:cx="52.5"
+       r="5.5"
+       id="circle15157"
+       cy="31.5"
+       cx="52.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)" />
+    <text
+       style="font-size:4px;font-family:Crickx"
+       id="text14658"
+       y="0"
+       x="0"
+       font-size="4"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)">
+      <textPath
+         id="textPath14660"
+         xlink:href="#id8-3">OPEN SOURCE</textPath>
+    </text>
+    <circle
+       d="M 79,31.5 C 79,34.537566 76.537566,37 73.5,37 70.462434,37 68,34.537566 68,31.5 68,28.462434 70.462434,26 73.5,26 c 3.037566,0 5.5,2.462434 5.5,5.5 z"
+       style="fill:none;stroke:none"
+       sodipodi:ry="5.5"
+       sodipodi:rx="5.5"
+       sodipodi:cy="31.5"
+       sodipodi:cx="73.5"
+       r="5.5"
+       id="circle15161"
+       cy="31.5"
+       cx="73.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)" />
+    <text
+       style="font-size:4px;font-family:Crickx"
+       id="text14663"
+       y="0"
+       x="0"
+       font-size="4"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)">
+      <textPath
+         id="textPath14665"
+         xlink:href="#id9-4">SOFTWARE</textPath>
+    </text>
+    <circle
+       d="M 100,31.5 C 100,34.537566 97.537566,37 94.5,37 91.462434,37 89,34.537566 89,31.5 89,28.462434 91.462434,26 94.5,26 c 3.037566,0 5.5,2.462434 5.5,5.5 z"
+       style="fill:none;stroke:none"
+       sodipodi:ry="5.5"
+       sodipodi:rx="5.5"
+       sodipodi:cy="31.5"
+       sodipodi:cx="94.5"
+       r="5.5"
+       id="circle15165"
+       cy="31.5"
+       cx="94.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)" />
+    <text
+       style="font-size:4px;font-family:Crickx"
+       id="text14668"
+       y="0"
+       x="0"
+       font-size="4"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)">
+      <textPath
+         id="textPath14670"
+         xlink:href="#id10-9">ARTS LAB</textPath>
+    </text>
+    <circle
+       d="M 16,52.5 C 16,55.537566 13.537566,58 10.5,58 7.4624339,58 5,55.537566 5,52.5 5,49.462434 7.4624339,47 10.5,47 c 3.037566,0 5.5,2.462434 5.5,5.5 z"
+       style="fill:none;stroke:none"
+       sodipodi:ry="5.5"
+       sodipodi:rx="5.5"
+       sodipodi:cy="52.5"
+       sodipodi:cx="10.5"
+       r="5.5"
+       id="circle15169"
+       cy="52.5"
+       cx="10.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)" />
+    <text
+       style="font-size:4px;font-family:Crickx"
+       id="text14673"
+       y="0"
+       x="0"
+       font-size="4"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)">
+      <textPath
+         id="textPath14675"
+         xlink:href="#id11-2">FREE</textPath>
+    </text>
+    <circle
+       d="M 37,52.5 C 37,55.537566 34.537566,58 31.5,58 28.462434,58 26,55.537566 26,52.5 26,49.462434 28.462434,47 31.5,47 c 3.037566,0 5.5,2.462434 5.5,5.5 z"
+       style="fill:none;stroke:none"
+       sodipodi:ry="5.5"
+       sodipodi:rx="5.5"
+       sodipodi:cy="52.5"
+       sodipodi:cx="31.5"
+       r="5.5"
+       id="circle15173"
+       cy="52.5"
+       cx="31.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)" />
+    <text
+       style="font-size:4px;font-family:Crickx"
+       id="text14678"
+       y="0"
+       x="0"
+       font-size="4"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)">
+      <textPath
+         id="textPath14680"
+         xlink:href="#id12-7">LIBRE</textPath>
+    </text>
+    <circle
+       d="M 58,52.5 C 58,55.537566 55.537566,58 52.5,58 49.462434,58 47,55.537566 47,52.5 47,49.462434 49.462434,47 52.5,47 c 3.037566,0 5.5,2.462434 5.5,5.5 z"
+       style="fill:none;stroke:none"
+       sodipodi:ry="5.5"
+       sodipodi:rx="5.5"
+       sodipodi:cy="52.5"
+       sodipodi:cx="52.5"
+       r="5.5"
+       id="circle15177"
+       cy="52.5"
+       cx="52.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)" />
+    <text
+       style="font-size:4px;font-family:Crickx"
+       id="text14683"
+       y="0"
+       x="0"
+       font-size="4"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)">
+      <textPath
+         id="textPath14685"
+         xlink:href="#id13-4">OPEN SOURCE</textPath>
+    </text>
+    <circle
+       d="M 79,52.5 C 79,55.537566 76.537566,58 73.5,58 70.462434,58 68,55.537566 68,52.5 68,49.462434 70.462434,47 73.5,47 c 3.037566,0 5.5,2.462434 5.5,5.5 z"
+       style="fill:none;stroke:none"
+       sodipodi:ry="5.5"
+       sodipodi:rx="5.5"
+       sodipodi:cy="52.5"
+       sodipodi:cx="73.5"
+       r="5.5"
+       id="circle15181"
+       cy="52.5"
+       cx="73.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)" />
+    <text
+       style="font-size:4px;font-family:Crickx"
+       id="text14688"
+       y="0"
+       x="0"
+       font-size="4"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)">
+      <textPath
+         id="textPath14690"
+         xlink:href="#id14-2">SOFTWARE</textPath>
+    </text>
+    <circle
+       d="M 100,52.5 C 100,55.537566 97.537566,58 94.5,58 91.462434,58 89,55.537566 89,52.5 89,49.462434 91.462434,47 94.5,47 c 3.037566,0 5.5,2.462434 5.5,5.5 z"
+       style="fill:none;stroke:none"
+       sodipodi:ry="5.5"
+       sodipodi:rx="5.5"
+       sodipodi:cy="52.5"
+       sodipodi:cx="94.5"
+       r="5.5"
+       id="circle15185"
+       cy="52.5"
+       cx="94.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)" />
+    <text
+       style="font-size:4px;font-family:Crickx"
+       id="text14693"
+       y="0"
+       x="0"
+       font-size="4"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)">
+      <textPath
+         id="textPath14695"
+         xlink:href="#id15-5">ARTS LAB</textPath>
+    </text>
+    <circle
+       d="M 16,73.5 C 16,76.537566 13.537566,79 10.5,79 7.4624339,79 5,76.537566 5,73.5 5,70.462434 7.4624339,68 10.5,68 c 3.037566,0 5.5,2.462434 5.5,5.5 z"
+       style="fill:none;stroke:none"
+       sodipodi:ry="5.5"
+       sodipodi:rx="5.5"
+       sodipodi:cy="73.5"
+       sodipodi:cx="10.5"
+       r="5.5"
+       id="circle15189"
+       cy="73.5"
+       cx="10.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)" />
+    <text
+       style="font-size:4px;font-family:Crickx"
+       id="text14698"
+       y="0"
+       x="0"
+       font-size="4"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)">
+      <textPath
+         id="textPath14700"
+         xlink:href="#id16-2">FREE</textPath>
+    </text>
+    <circle
+       d="M 37,73.5 C 37,76.537566 34.537566,79 31.5,79 28.462434,79 26,76.537566 26,73.5 26,70.462434 28.462434,68 31.5,68 c 3.037566,0 5.5,2.462434 5.5,5.5 z"
+       style="fill:none;stroke:none"
+       sodipodi:ry="5.5"
+       sodipodi:rx="5.5"
+       sodipodi:cy="73.5"
+       sodipodi:cx="31.5"
+       r="5.5"
+       id="circle15193"
+       cy="73.5"
+       cx="31.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)" />
+    <text
+       style="font-size:4px;font-family:Crickx"
+       id="text14703"
+       y="0"
+       x="0"
+       font-size="4"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)">
+      <textPath
+         id="textPath14705"
+         xlink:href="#id17-4">LIBRE</textPath>
+    </text>
+    <circle
+       d="M 58,73.5 C 58,76.537566 55.537566,79 52.5,79 49.462434,79 47,76.537566 47,73.5 47,70.462434 49.462434,68 52.5,68 c 3.037566,0 5.5,2.462434 5.5,5.5 z"
+       style="fill:none;stroke:none"
+       sodipodi:ry="5.5"
+       sodipodi:rx="5.5"
+       sodipodi:cy="73.5"
+       sodipodi:cx="52.5"
+       r="5.5"
+       id="circle15197"
+       cy="73.5"
+       cx="52.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)" />
+    <text
+       style="font-size:4px;font-family:Crickx"
+       id="text14708"
+       y="0"
+       x="0"
+       font-size="4"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)">
+      <textPath
+         id="textPath14710"
+         xlink:href="#id18-4">OPEN SOURCE</textPath>
+    </text>
+    <circle
+       d="M 79,73.5 C 79,76.537566 76.537566,79 73.5,79 70.462434,79 68,76.537566 68,73.5 68,70.462434 70.462434,68 73.5,68 c 3.037566,0 5.5,2.462434 5.5,5.5 z"
+       style="fill:none;stroke:none"
+       sodipodi:ry="5.5"
+       sodipodi:rx="5.5"
+       sodipodi:cy="73.5"
+       sodipodi:cx="73.5"
+       r="5.5"
+       id="circle15201"
+       cy="73.5"
+       cx="73.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)" />
+    <text
+       style="font-size:4px;font-family:Crickx"
+       id="text14713"
+       y="0"
+       x="0"
+       font-size="4"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)">
+      <textPath
+         id="textPath14715"
+         xlink:href="#id19-3">SOFTWARE</textPath>
+    </text>
+    <circle
+       d="M 100,73.5 C 100,76.537566 97.537566,79 94.5,79 91.462434,79 89,76.537566 89,73.5 89,70.462434 91.462434,68 94.5,68 c 3.037566,0 5.5,2.462434 5.5,5.5 z"
+       style="fill:none;stroke:none"
+       sodipodi:ry="5.5"
+       sodipodi:rx="5.5"
+       sodipodi:cy="73.5"
+       sodipodi:cx="94.5"
+       r="5.5"
+       id="circle15205"
+       cy="73.5"
+       cx="94.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)" />
+    <text
+       style="font-size:4px;font-family:Crickx"
+       id="text14718"
+       y="0"
+       x="0"
+       font-size="4"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)">
+      <textPath
+         id="textPath14720"
+         xlink:href="#id20-8">ARTS LAB</textPath>
+    </text>
+    <circle
+       d="M 16,94.5 C 16,97.537566 13.537566,100 10.5,100 7.4624339,100 5,97.537566 5,94.5 5,91.462434 7.4624339,89 10.5,89 c 3.037566,0 5.5,2.462434 5.5,5.5 z"
+       style="fill:none;stroke:none"
+       sodipodi:ry="5.5"
+       sodipodi:rx="5.5"
+       sodipodi:cy="94.5"
+       sodipodi:cx="10.5"
+       r="5.5"
+       id="circle15209"
+       cy="94.5"
+       cx="10.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)" />
+    <text
+       style="font-size:4px;font-family:Crickx"
+       id="text14723"
+       y="0"
+       x="0"
+       font-size="4"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)">
+      <textPath
+         id="textPath14725"
+         xlink:href="#id21-6">FREE</textPath>
+    </text>
+    <circle
+       d="m 37,94.5 c 0,3.037566 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.462434 -5.5,-5.5 0,-3.037566 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.462434 5.5,5.5 z"
+       style="fill:none;stroke:none"
+       sodipodi:ry="5.5"
+       sodipodi:rx="5.5"
+       sodipodi:cy="94.5"
+       sodipodi:cx="31.5"
+       r="5.5"
+       id="circle15213"
+       cy="94.5"
+       cx="31.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)" />
+    <text
+       style="font-size:4px;font-family:Crickx"
+       id="text14728"
+       y="0"
+       x="0"
+       font-size="4"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)">
+      <textPath
+         id="textPath14730"
+         xlink:href="#id22-0">LIBRE</textPath>
+    </text>
+    <circle
+       d="m 58,94.5 c 0,3.037566 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.462434 -5.5,-5.5 0,-3.037566 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.462434 5.5,5.5 z"
+       style="fill:none;stroke:none"
+       sodipodi:ry="5.5"
+       sodipodi:rx="5.5"
+       sodipodi:cy="94.5"
+       sodipodi:cx="52.5"
+       r="5.5"
+       id="circle15217"
+       cy="94.5"
+       cx="52.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)" />
+    <text
+       style="font-size:4px;font-family:Crickx"
+       id="text14733"
+       y="0"
+       x="0"
+       font-size="4"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)">
+      <textPath
+         id="textPath14735"
+         xlink:href="#id23-8">OPEN SOURCE</textPath>
+    </text>
+    <circle
+       d="m 79,94.5 c 0,3.037566 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.462434 -5.5,-5.5 0,-3.037566 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.462434 5.5,5.5 z"
+       style="fill:none;stroke:none"
+       sodipodi:ry="5.5"
+       sodipodi:rx="5.5"
+       sodipodi:cy="94.5"
+       sodipodi:cx="73.5"
+       r="5.5"
+       id="circle15221"
+       cy="94.5"
+       cx="73.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)" />
+    <text
+       style="font-size:4px;font-family:Crickx"
+       id="text14738"
+       y="0"
+       x="0"
+       font-size="4"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)">
+      <textPath
+         id="textPath14740"
+         xlink:href="#id24-9">SOFTWARE</textPath>
+    </text>
+    <circle
+       d="m 100,94.5 c 0,3.037566 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.462434 -5.5,-5.5 0,-3.037566 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.462434 5.5,5.5 z"
+       style="fill:none;stroke:none"
+       sodipodi:ry="5.5"
+       sodipodi:rx="5.5"
+       sodipodi:cy="94.5"
+       sodipodi:cx="94.5"
+       r="5.5"
+       id="circle15225"
+       cy="94.5"
+       cx="94.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)" />
+    <text
+       style="font-size:4px;font-family:Crickx"
+       id="text14743"
+       y="0"
+       x="0"
+       font-size="4"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)">
+      <textPath
+         id="textPath14745"
+         xlink:href="#id25-2">ARTS LAB</textPath>
+    </text>
+    <circle
+       d="m 16,115.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.0375661,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.4624339,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z"
+       style="fill:none;stroke:none"
+       sodipodi:ry="5.5"
+       sodipodi:rx="5.5"
+       sodipodi:cy="115.5"
+       sodipodi:cx="10.5"
+       r="5.5"
+       id="circle15229"
+       cy="115.5"
+       cx="10.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)" />
+    <text
+       style="font-size:4px;font-family:Crickx"
+       id="text14748"
+       y="0"
+       x="0"
+       font-size="4"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)">
+      <textPath
+         id="textPath14750"
+         xlink:href="#id26-2">FREE</textPath>
+    </text>
+    <circle
+       d="m 37,115.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z"
+       style="fill:none;stroke:none"
+       sodipodi:ry="5.5"
+       sodipodi:rx="5.5"
+       sodipodi:cy="115.5"
+       sodipodi:cx="31.5"
+       r="5.5"
+       id="circle15233"
+       cy="115.5"
+       cx="31.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)" />
+    <text
+       style="font-size:4px;font-family:Crickx"
+       id="text14753"
+       y="0"
+       x="0"
+       font-size="4"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)">
+      <textPath
+         id="textPath14755"
+         xlink:href="#id27-3">LIBRE</textPath>
+    </text>
+    <circle
+       d="m 58,115.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z"
+       style="fill:none;stroke:none"
+       sodipodi:ry="5.5"
+       sodipodi:rx="5.5"
+       sodipodi:cy="115.5"
+       sodipodi:cx="52.5"
+       r="5.5"
+       id="circle15237"
+       cy="115.5"
+       cx="52.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)" />
+    <text
+       style="font-size:4px;font-family:Crickx"
+       id="text14758"
+       y="0"
+       x="0"
+       font-size="4"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)">
+      <textPath
+         id="textPath14760"
+         xlink:href="#id28-1">OPEN SOURCE</textPath>
+    </text>
+    <circle
+       d="m 79,115.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z"
+       style="fill:none;stroke:none"
+       sodipodi:ry="5.5"
+       sodipodi:rx="5.5"
+       sodipodi:cy="115.5"
+       sodipodi:cx="73.5"
+       r="5.5"
+       id="circle15241"
+       cy="115.5"
+       cx="73.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)" />
+    <text
+       style="font-size:4px;font-family:Crickx"
+       id="text14763"
+       y="0"
+       x="0"
+       font-size="4"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)">
+      <textPath
+         id="textPath14765"
+         xlink:href="#id29-8">SOFTWARE</textPath>
+    </text>
+    <circle
+       d="m 100,115.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z"
+       style="fill:none;stroke:none"
+       sodipodi:ry="5.5"
+       sodipodi:rx="5.5"
+       sodipodi:cy="115.5"
+       sodipodi:cx="94.5"
+       r="5.5"
+       id="circle15245"
+       cy="115.5"
+       cx="94.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)" />
+    <text
+       style="font-size:4px;font-family:Crickx"
+       id="text14768"
+       y="0"
+       x="0"
+       font-size="4"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)">
+      <textPath
+         id="textPath14770"
+         xlink:href="#id30-3">ARTS LAB</textPath>
+    </text>
+    <circle
+       d="m 16,136.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.0375661,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.4624339,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z"
+       style="fill:none;stroke:none"
+       sodipodi:ry="5.5"
+       sodipodi:rx="5.5"
+       sodipodi:cy="136.5"
+       sodipodi:cx="10.5"
+       r="5.5"
+       id="circle15249"
+       cy="136.5"
+       cx="10.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)" />
+    <text
+       style="font-size:4px;font-family:Crickx"
+       id="text14773"
+       y="0"
+       x="0"
+       font-size="4"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)">
+      <textPath
+         id="textPath14775"
+         xlink:href="#id31-4">FREE</textPath>
+    </text>
+    <circle
+       d="m 37,136.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z"
+       style="fill:none;stroke:none"
+       sodipodi:ry="5.5"
+       sodipodi:rx="5.5"
+       sodipodi:cy="136.5"
+       sodipodi:cx="31.5"
+       r="5.5"
+       id="circle15253"
+       cy="136.5"
+       cx="31.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)" />
+    <text
+       style="font-size:4px;font-family:Crickx"
+       id="text14778"
+       y="0"
+       x="0"
+       font-size="4"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)">
+      <textPath
+         id="textPath14780"
+         xlink:href="#id32-2">LIBRE</textPath>
+    </text>
+    <circle
+       d="m 58,136.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z"
+       style="fill:none;stroke:none"
+       sodipodi:ry="5.5"
+       sodipodi:rx="5.5"
+       sodipodi:cy="136.5"
+       sodipodi:cx="52.5"
+       r="5.5"
+       id="circle15257"
+       cy="136.5"
+       cx="52.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)" />
+    <text
+       style="font-size:4px;font-family:Crickx"
+       id="text14783"
+       y="0"
+       x="0"
+       font-size="4"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)">
+      <textPath
+         id="textPath14785"
+         xlink:href="#id33-2">OPEN SOURCE</textPath>
+    </text>
+    <circle
+       d="m 79,136.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z"
+       style="fill:none;stroke:none"
+       sodipodi:ry="5.5"
+       sodipodi:rx="5.5"
+       sodipodi:cy="136.5"
+       sodipodi:cx="73.5"
+       r="5.5"
+       id="circle15261"
+       cy="136.5"
+       cx="73.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)" />
+    <text
+       style="font-size:4px;font-family:Crickx"
+       id="text14788"
+       y="0"
+       x="0"
+       font-size="4"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)">
+      <textPath
+         id="textPath14790"
+         xlink:href="#id34-4">SOFTWARE</textPath>
+    </text>
+    <circle
+       d="m 100,136.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z"
+       style="fill:none;stroke:none"
+       sodipodi:ry="5.5"
+       sodipodi:rx="5.5"
+       sodipodi:cy="136.5"
+       sodipodi:cx="94.5"
+       r="5.5"
+       id="circle15265"
+       cy="136.5"
+       cx="94.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)" />
+    <text
+       style="font-size:4px;font-family:Crickx"
+       id="text14793"
+       y="0"
+       x="0"
+       font-size="4"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)">
+      <textPath
+         id="textPath14795"
+         xlink:href="#id35-5">ARTS LAB</textPath>
+    </text>
+    <circle
+       d="m 16,157.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.0375661,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.4624339,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z"
+       style="fill:none;stroke:none"
+       sodipodi:ry="5.5"
+       sodipodi:rx="5.5"
+       sodipodi:cy="157.5"
+       sodipodi:cx="10.5"
+       r="5.5"
+       id="circle15269"
+       cy="157.5"
+       cx="10.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)" />
+    <text
+       style="font-size:4px;font-family:Crickx"
+       id="text14798"
+       y="0"
+       x="0"
+       font-size="4"
+       transform="matrix(0.76023379,0.64964958,-0.64964958,0.76023379,192.22402,-115.49369)">
+      <textPath
+         id="textPath14800"
+         xlink:href="#id36-1">FREE</textPath>
+    </text>
+    <circle
+       d="m 37,157.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z"
+       style="fill:none;stroke:none"
+       sodipodi:ry="5.5"
+       sodipodi:rx="5.5"
+       sodipodi:cy="157.5"
+       sodipodi:cx="31.5"
+       r="5.5"
+       id="circle15273"
+       cy="157.5"
+       cx="31.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)" />
+    <text
+       style="font-size:4px;font-family:Crickx"
+       id="text14803"
+       y="0"
+       x="0"
+       font-size="4"
+       transform="matrix(0.79439333,0.60740368,-0.60740368,0.79439333,147.52936,-133.18572)">
+      <textPath
+         id="textPath14805"
+         xlink:href="#id37-7">LIBRE</textPath>
+    </text>
+    <circle
+       d="m 58,157.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z"
+       style="fill:none;stroke:none"
+       sodipodi:ry="5.5"
+       sodipodi:rx="5.5"
+       sodipodi:cy="157.5"
+       sodipodi:cx="52.5"
+       r="5.5"
+       id="circle15277"
+       cy="157.5"
+       cx="52.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)" />
+    <text
+       style="font-size:4px;font-family:Crickx"
+       id="text14808"
+       y="0"
+       x="0"
+       font-size="4"
+       transform="matrix(0.91776248,-0.39712975,0.39712975,0.91776248,-54.843795,-112.63383)">
+      <textPath
+         id="textPath14810"
+         xlink:href="#id38-5">OPEN SOURCE</textPath>
+    </text>
+    <circle
+       d="m 79,157.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z"
+       style="fill:none;stroke:none"
+       sodipodi:ry="5.5"
+       sodipodi:rx="5.5"
+       sodipodi:cy="157.5"
+       sodipodi:cx="73.5"
+       r="5.5"
+       id="circle15281"
+       cy="157.5"
+       cx="73.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)" />
+    <text
+       style="font-size:4px;font-family:Crickx"
+       id="text14813"
+       y="0"
+       x="0"
+       font-size="4"
+       transform="matrix(0.99835584,0.0573203,-0.0573203,0.99835584,-29.464537,-150.38964)">
+      <textPath
+         id="textPath14815"
+         xlink:href="#id39-7">SOFTWARE</textPath>
+    </text>
+    <circle
+       d="m 100,157.5 c 0,3.03757 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.46243 5.5,5.5 z"
+       style="fill:none;stroke:none"
+       sodipodi:ry="5.5"
+       sodipodi:rx="5.5"
+       sodipodi:cy="157.5"
+       sodipodi:cx="94.5"
+       r="5.5"
+       id="circle15285"
+       cy="157.5"
+       cx="94.5"
+       transform="matrix(-1,0,0,-1,108.38667,168.56445)" />
+    <text
+       style="font-size:4px;font-family:Crickx"
+       id="text14818"
+       y="0"
+       x="0"
+       font-size="4"
+       transform="matrix(0.99980074,-0.01996179,0.01996179,0.99980074,-83.738483,-144.51778)">
+      <textPath
+         id="textPath14820"
+         xlink:href="#id40-1">ARTS LAB</textPath>
+    </text>
+  </g>
+</svg>

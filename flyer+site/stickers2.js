@@ -145,20 +145,21 @@ function empty_rounded_rectangle(position) {
     //ctx.translate((width/2), (height/2));
     var x = position[0];
     var y = position[1];
-    var radius = calcSize (0.133333333);
+    var radius = calcSize (0.4);
     var width = calcSize(4.166666667);
-    var height = calcSize(8.2);
+    var height = calcSize(8.938626133);
     ctx.rotate(Math.PI*2 * Math.random());
     ctx.beginPath();
     ctx.moveTo(x + radius, y);
-    ctx.dashedLine(x + radius, y, x + width - radius, y, [calcSize(0.5),calcSize(0.5)]);
+    ctx.dashedLine(x + radius, y, x + width - radius, y, [calcSize(0.4),calcSize(0.4)]);
     ctx.quadraticCurveTo(x + width, y, x + width, y + radius);
-    ctx.dashedLine(x + width, y + radius, x + width, y + height - radius, [calcSize(0.5),calcSize(0.5)]);
+    ctx.dashedLine(x + width, y + radius, x + width, y + height - radius, [calcSize(0.4),calcSize(0.4)]);
     ctx.quadraticCurveTo(x + width, y + height, x + width - radius, y + height);
-    ctx.dashedLine(x + width - radius, y + height, x + radius, y + height, [calcSize(0.5),calcSize(0.5)]);
+    ctx.dashedLine(x + width - radius, y + height, x + radius, y + height, [calcSize(0.4),calcSize(0.4)]);
     ctx.quadraticCurveTo(x, y + height, x, y + height - radius);
-    ctx.dashedLine(x, y + height - radius, x, y + radius, [calcSize(0.5),calcSize(0.5)]);
+    ctx.dashedLine(x, y + height - radius, x, y + radius, [calcSize(0.4),calcSize(0.4)]);
     ctx.quadraticCurveTo(x, y, x + radius, y);
+    ctx.moveTo(x + radius, y);
     ctx.closePath();
     ctx.lineWidth = calcSize(0.03);
     ctx.strokeStyle = "rgb(50,50,50)";
@@ -168,10 +169,10 @@ function empty_rounded_rectangle(position) {
 }
 
 function empty_circle(position) {
-    var radius = calcSize(2);
+    var radius = calcSize(1.4);
     ctx.fillStyle = getColor();
     ctx.beginPath();
-    ctx.dashedArc(position[0], position[1], radius, 0, Math.PI * 2, false, [calcSize(0.5),calcSize(0.5)]);
+    ctx.dashedArc(position[0], position[1], radius, 0, Math.PI * 2, false, [calcSize(0.4),calcSize(0.4)]);
     ctx.closePath();
     ctx.lineWidth = calcSize(0.03);
     ctx.strokeStyle = "rgb(50,50,50)";
@@ -182,12 +183,30 @@ function empty_circle(position) {
 function drawTextCircle (position, text) {
     ctx.fillStyle = getColor();
     ctx.beginPath();
-    ctx.arc(position[0], position[1], calcSize(2), 0, Math.PI * 2, true);
+    ctx.arc(position[0], position[1], calcSize(1.4), 0, Math.PI * 2, true);
     ctx.closePath();
     ctx.fill();
-    ctx.font = "bold " + calcSize (0.6) + " 'propcouriersans'";
+    ctx.font = "bold " + calcSize (0.5) + " 'propcouriersans'";
     ctx.fillStyle = "rgb(0,0,0)";
-    ctx.fillTextCircle (text.toUpperCase(), position[0], position[1], calcSize(1.3), Math.random() * Math.PI * 2)
+    ctx.fillTextCircle (text.toUpperCase(), position[0], position[1], calcSize(0.9), Math.random() * Math.PI * 2)
+}
+
+function moveBigStickers () {
+    var angle = Math.random () * 360;
+    $('#constant_variable_logo').css('top', (10 + Math.random () * 30) + '%');
+    $('#constant_variable_logo').css('transform', 'rotate(' + angle + 'deg)');
+    $('#constant_variable_logo').css('-ms-transform', 'rotate(' + angle + 'deg)');
+    $('#constant_variable_logo').css('-moz-transform', 'rotate(' + angle + 'deg)');
+    $('#constant_variable_logo').css('-webkit-transform', 'rotate(' + angle + 'deg)');
+    $('#constant_variable_logo').css('-o-transform', 'rotate(' + angle + 'deg)');
+
+    var angle = Math.random () * 90 - Math.random () * 90;
+    $('#info_sticker').css('top', (30 + Math.random () * 30) + '%');
+    $('#info_sticker').css('transform', 'rotate(' + angle + 'deg)');
+    $('#info_sticker').css('-ms-transform', 'rotate(' + angle + 'deg)');
+    $('#info_sticker').css('-moz-transform', 'rotate(' + angle + 'deg)');
+    $('#info_sticker').css('-webkit-transform', 'rotate(' + angle + 'deg)');
+    $('#info_sticker').css('-o-transform', 'rotate(' + angle + 'deg)');
 }
 
 $(document).ready(function () {
@@ -202,15 +221,17 @@ $(document).ready(function () {
     words.hide();
 
     $("div.label").draggable();
-    $("div.logo").draggable();
+    $(".logo").draggable();
 
     $(window).resize(function() {
         setBaseSize ();
         drawGrid ();
         drawTextStickers ();
+        moveBigStickers ();
     });
 
     drawGrid ();
+    moveBigStickers ();
     
     ctx.font = "bold " + calcSize (0.6) + " 'propcouriersans'";
     // Force the browser to load the font    

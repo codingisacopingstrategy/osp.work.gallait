@@ -93,6 +93,22 @@ div#constant_logo {
    bottom: 15%;
 }
 
+#constant_variable_logo {
+    position: absolute;
+    z-index: 0;
+    width: 22.75%;
+    left: 2%;
+    top: 20%;
+}
+
+#info_sticker {
+    position: absolute;
+    z-index: 0;
+    width: 10.61%;
+    left: 85%;
+    top: 30%;
+}
+
 div#vo_logo {
     position: fixed;
     bottom: 2%;
