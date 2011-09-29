@@ -21,6 +21,12 @@ function showLanguage(language) {
 };
 
 $(function() {
+
+    $("div#select_language ul li a").each (function() {
+        $(this).parent().html($(this).html());
+        $(this).remove();  
+    });
+
     showLanguage(defaultLanguage());
 
     $("div#select_language ul li").click(function(event){

@@ -55,8 +55,8 @@ html {
 
 body {
     width: 100%;
-    font-size: 36px;
-    line-height: 36px;
+    font-size: 30px;
+    line-height: 30px;
     font-family: 'CrickxRegular', serif;
 }
 
@@ -98,7 +98,7 @@ div#constant_logo {
     z-index: 0;
     width: 22.75%;
     left: 2%;
-    top: 20%;
+    top: 15%;
 }
 
 #info_sticker {
@@ -234,6 +234,17 @@ div#select_language ul li {
 
 div#select_language ul li.active {
     border-bottom: 1px dashed #000;
+}
+
+#key_wrapper {
+    position: absolute;    
+    width: 45%;
+    top: 22%;
+    left: 27.5%;
+}
+
+span.key {
+    font-size: 75%;
 }
 
 br.clear {

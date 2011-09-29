@@ -181,6 +181,11 @@ function empty_circle(position) {
 }
 
 function drawTextCircle (position, text) {
+    ctx.fillStyle = "rgba(0,0,0,0.2)";
+    ctx.beginPath();
+    ctx.arc((position[0]+1), (position[1]+1), calcSize(1.4), 0, Math.PI * 2, true);
+    ctx.closePath();
+    ctx.fill();
     ctx.fillStyle = getColor();
     ctx.beginPath();
     ctx.arc(position[0], position[1], calcSize(1.4), 0, Math.PI * 2, true);
@@ -207,7 +212,7 @@ function moveBigStickers () {
     $('#info_sticker').css('-moz-transform', 'rotate(' + angle + 'deg)');
     $('#info_sticker').css('-webkit-transform', 'rotate(' + angle + 'deg)');
     $('#info_sticker').css('-o-transform', 'rotate(' + angle + 'deg)');
-}
+}file:///home/gijs/Documents/osp/osp.work.gallait/flyer+site/index.html
 
 $(document).ready(function () {
     cnvs = document.getElementById("drawing_surface");
@@ -218,7 +223,9 @@ $(document).ready(function () {
     setBaseSize ();
 
     words = $('span.key')
-    words.hide();
+    $('#key_wrapper').hide();
+
+    $('.details').hide();
 
     $("div.label").draggable();
     $(".logo").draggable();
@@ -235,7 +242,7 @@ $(document).ready(function () {
     
     ctx.font = "bold " + calcSize (0.6) + " 'propcouriersans'";
     // Force the browser to load the font    
-    ctx.fillText('', 0, 0);    
+    ctx.fillText('ssss', 0, 0);    
 
     $(document).bind ('readystatechange', function() {
         if (document.readyState == 'complete') {
@@ -243,4 +250,4 @@ $(document).ready(function () {
             $(document).unbind ('readystatechange');
         }
     });
-});
+});2
