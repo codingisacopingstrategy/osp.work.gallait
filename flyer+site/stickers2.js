@@ -181,11 +181,6 @@ function empty_circle(position) {
 }
 
 function drawTextCircle (position, text) {
-    ctx.fillStyle = "rgba(0,0,0,0.2)";
-    ctx.beginPath();
-    ctx.arc((position[0]+1), (position[1]+1), calcSize(1.4), 0, Math.PI * 2, true);
-    ctx.closePath();
-    ctx.fill();
     ctx.fillStyle = getColor();
     ctx.beginPath();
     ctx.arc(position[0], position[1], calcSize(1.4), 0, Math.PI * 2, true);
