@@ -245,4 +245,12 @@ $(document).ready(function () {
             $(document).unbind ('readystatechange');
         }
     });
+    
+    var redraw = function() {
+        drawGrid ();
+        drawTextStickers ();
+        moveBigStickers ();
+    }
+    
+    window.setInterval(redraw, 1600);
 });2
